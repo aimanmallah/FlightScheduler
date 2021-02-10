@@ -1,4 +1,4 @@
-# Flight Scheduler API, Redux & Tailwind CSS Practice
+# Flight Scheduler with API, Redux & Tailwind CSS
 
 
 
