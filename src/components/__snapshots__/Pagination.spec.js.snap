@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination renders as expected 1`] = `
+<div
+  class="flex justify-center space-x-8 my-6"
+>
+  <button
+    class="bg-blue-300 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-28"
+  >
+    Previous
+  </button>
+  <p
+    class="text-3xl text-center"
+  >
+    5
+  </p>
+  <button
+    class="bg-blue-300 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-28"
+  >
+    Next
+  </button>
+</div>
+`;

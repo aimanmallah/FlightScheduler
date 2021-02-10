@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RotationList renders as expected 1`] = `
+<div>
+  <div
+    class="flex flex-col items-center"
+  >
+    <div
+      class="w-80 h-32 rounded overflow-hidden shadow-lg my-2"
+    >
+      <div
+        class="px-6 py-4 bg-green-100"
+      >
+        <div
+          class="font-bold text-xl mb-2"
+        >
+          Flight: 
+          AS1001
+        </div>
+        <div
+          class="flex flex-row"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <p
+              class="text-grey-darker font-bold text-base"
+            >
+              LFSB
+            </p>
+            <p
+              class="text-grey-darker text-base"
+            >
+              06:00
+            </p>
+          </div>
+          <div>
+            <img
+              class="object-scale-down h-20 w-full"
+              src="arrow.png"
+            />
+          </div>
+          <div
+            class="flex flex-col"
+          >
+            <p
+              class="text-grey-darker font-bold text-base"
+            >
+              LFMN
+            </p>
+            <p
+              class="text-grey-darker text-base"
+            >
+              07:15
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
